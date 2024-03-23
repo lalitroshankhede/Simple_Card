@@ -1,6 +1,6 @@
 # Simple Card Build using HTML and CSS
 
-This project demonstrates how to create a simple card using HTML and CSS. Cards are a common UI component used in web development for displaying information in a structured and visually appealing way.
+This project demonstrates how to create a simple card using HTML and CSS. 
 
 ## Getting Started
 
@@ -9,7 +9,6 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:**
 
 git clone https://github.com/your-username/simple-card-html-css.git
-
 
 2. **Navigate to the Project Directory:**
 
@@ -30,5 +29,3 @@ Once you've made your changes, save the files and open `index.html` in your web 
 ## Contributing
 
 If you'd like to contribute to this project, feel free to open a pull request with your suggested changes. Contributions are welcome!
-
-
