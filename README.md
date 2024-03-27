@@ -27,5 +27,4 @@ Open `styles.css` in your text editor. This file contains the CSS styles for the
 Once you've made your changes, save the files and open `index.html` in your web browser to see the updated card.
 
 ## Contributing
-
 If you'd like to contribute to this project, feel free to open a pull request with your suggested changes. Contributions are welcome!
