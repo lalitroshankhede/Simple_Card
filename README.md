@@ -1,6 +1,6 @@
 # Simple Card Build using HTML and CSS
 
-This project demonstrates how to create a simple card using HTML and CSS responsive design with media query. 
+This project demonstrates how to create a Simple Card with the help of HTML and CSS responsive design with media query. 
 
 ## Getting Started
 
