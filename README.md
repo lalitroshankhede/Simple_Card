@@ -4,7 +4,7 @@ This project demonstrates how to create a Simple Card with the help of HTML and 
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+To get started with this project, follow the below points:
 
 1. **Clone the Repository:**
 
